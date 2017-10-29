@@ -3,9 +3,22 @@
 }
 
 h1{
-  text-align: center;
-  font-family: Verdana;
   font-size:  50px;
   font-weight: Normal;
   color: White;
+}
+
+p{
+  font-size: 21px;
+  color: gray;s
+}
+
+body{
+  text-align: center;
+  font-family: Verdana;
+}
+
+#comingSoon{
+  color: Aquamarine;
+  font-size: 16px;
 }
